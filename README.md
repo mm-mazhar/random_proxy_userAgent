@@ -1,4 +1,4 @@
-### Random Proxy and User Agent
+### Selenium: Random Proxy and User Agent
 <br>
 The provided Python script demonstrates an object-oriented approach to managing a Chrome WebDriver using the Selenium library for automated web testing. It allows you to easily initialize a WebDriver, perform actions on a web page, and then properly close the WebDriver when done.
 
